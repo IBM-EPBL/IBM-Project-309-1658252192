@@ -11,8 +11,12 @@ Link: https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset
 
 The Team:
 The Team Members are:
+
 Team Lead : Avantika S
+
 Team Member 1 : Shruthi Gopalakrishnan
+
 Team Member 2 : Subhiksha S
+
 Team Member 3 : Sweta C
 
